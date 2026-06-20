@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+results/tmp_models/
+*.cbm
+
+# датасеты скачиваются через prepare_datasets.py
+data/*.csv
+
+.DS_Store
+.idea/
+.vscode/

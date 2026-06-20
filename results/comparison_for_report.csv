@@ -1,0 +1,4 @@
+dataset,title,baseline_rmse,best_rmse,rmse_improvement_pct,baseline_inference_ms,best_inference_ms,speedup_pct,baseline_ctr,best_ctr,ctr_reduction_pct,sla_ms,sla_met
+amazon,Amazon Employee Access,0.14415321571565554,0.15980837587232732,-10.86,19.63975200033019,17.41387250058324,11.33,78,18,76.9,17.676,False
+students,Student Alcohol Consumption,1.5805713169080793,1.5099322656538992,4.47,1.9968345000052068,1.9085110002379224,4.42,22,4,81.8,1.997,True
+ames,Ames Housing,26670.632235118428,26543.038049379735,0.48,3.507381999952486,3.333879999900091,4.95,81,28,65.4,3.507,True
